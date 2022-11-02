@@ -8,6 +8,6 @@ Later in the university setting I did a lot of assembler on the MC6800, 6810, 68
 
 In the professional setting I focused on C and C++ in the embedded system arena, but also did some Windows Server programming. I worked with a team doing cfront-based C++ before it was even considered sane. I later added networking, security and HA skills.
 
-Currently, I like programming in "Go" and containerized stuff deployed with Kubernetes. On the professional side I am more weighted towards today's devops tools in a Linux environment. But on the hobby side I enjoy experimenting with Go, Node and Python for home automation, network programming and general problem solving. I also like web programming with PHP, Bootstrap, and a bit of Java/Typescript. But it never ends...I am interested in learning Rust next.
+Currently, I like programming in Go and containerized stuff deployed with Kubernetes. On the professional side I am more weighted towards today's devops tools in a Linux environment. But on the hobby side I enjoy experimenting with Node, Go and Python for home automation, network programming and general problem solving. I also like web programming with PHP, Bootstrap, and a bit of Java/Typescript. But it never ends...I am interested in learning Rust next.
 
 You can reach me at gwohlenb@yahoo.com
